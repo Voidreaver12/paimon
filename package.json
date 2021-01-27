@@ -1,0 +1,15 @@
+{
+  "name": "paimon",
+  "version": "1.0.0",
+  "description": "Paimon Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Noah Deibert",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
